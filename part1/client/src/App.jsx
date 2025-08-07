@@ -122,6 +122,7 @@ const App = () => {
     newVotes[selected] += 1;
     setVotes(newVotes);
   };
+  
   return (
     <>
       <div>
