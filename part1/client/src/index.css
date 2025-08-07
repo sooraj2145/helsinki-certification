@@ -1,0 +1,17 @@
+button {
+    padding: 1em;
+    background-color: #4CAF50;
+    color: white;
+    border:1px solid #4CAF50;
+    border-radius: 4px;
+}
+
+.feedback-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.anecdote-buttons {
+    display: flex;
+    gap: 10px;
+}
